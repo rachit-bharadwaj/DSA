@@ -8,10 +8,9 @@ This repository serves as a collection of my problem-solving journey across diff
 
 ## 🌟 Platforms Covered
 
-- **LeetCode** - Solutions to LeetCode problems
-- **GeeksforGeeks (GFG)** - GFG practice problems and solutions
-- **Coding Ninjas** - Coding Ninjas problem solutions
-- **And more...** - Solutions from various other platforms
+- **LeetCode** - https://leetcode.com/u/rachitbharadwaj/
+- **GeeksforGeeks (GFG)** - https://www.geeksforgeeks.org/profile/rachitbharadwaj
+- **Coding Ninjas** - https://www.naukri.com/code360/profile/rachitbharadwaj
 
 ## 📈 Goals
 
