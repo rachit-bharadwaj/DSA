@@ -1,5 +1,7 @@
 //  Question: https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650?interviewProblemRedirection=true&leftPanelTabValue=PROBLEM
 
+// Difficulty: Easy
+
 #include <iostream>
 using namespace std;
 

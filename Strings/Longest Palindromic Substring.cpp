@@ -1,5 +1,7 @@
 // Question: https://leetcode.com/problems/longest-palindromic-substring/
 
+// Difficulty: Medium
+
 class Solution
 {
 public:

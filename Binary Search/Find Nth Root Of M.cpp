@@ -1,5 +1,7 @@
 //  Question: https://www.codingninjas.com/studio/problems/1062679?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM
 
+// Difficulty: Easy
+
 int NthRoot(int n, int m) {
   int start = 1, end = m, mid;
 

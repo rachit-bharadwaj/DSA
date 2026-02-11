@@ -1,5 +1,7 @@
 // Question: https://leetcode.com/problems/contains-duplicate/description/
 
+// Difficulty: Easy
+
 class Solution
 {
 public:

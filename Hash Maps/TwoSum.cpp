@@ -1,5 +1,7 @@
 // Question: https://leetcode.com/problems/two-sum/description/
 
+// Difficulty: Easy
+
 class Solution
 {
 public:

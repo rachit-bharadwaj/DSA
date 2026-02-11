@@ -1,5 +1,7 @@
 // Question: https://leetcode.com/problems/group-anagrams
 
+// Difficulty: Medium
+
 class Solution
 {
 public:

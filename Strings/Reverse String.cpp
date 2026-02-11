@@ -1,5 +1,7 @@
 //  Question: https://leetcode.com/problems/reverse-string/
 
+// Difficulty: Easy
+
 class Solution
 {
 public:

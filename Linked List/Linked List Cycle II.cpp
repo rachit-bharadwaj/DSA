@@ -1,5 +1,7 @@
 // Question: https://leetcode.com/problems/linked-list-cycle-ii/
 
+// Difficulty: Medium
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

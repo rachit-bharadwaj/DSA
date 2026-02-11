@@ -1,5 +1,7 @@
 // Question: https://leetcode.com/problems/find-the-duplicate-number/description/
 
+// Difficulty: Medium
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {

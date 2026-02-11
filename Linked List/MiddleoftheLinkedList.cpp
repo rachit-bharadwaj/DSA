@@ -1,3 +1,7 @@
+// Question: https://leetcode.com/problems/middle-of-the-linked-list/description/
+
+// Difficulty: Easy
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

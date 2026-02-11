@@ -1,5 +1,7 @@
 //  Question: https://www.codingninjas.com/studio/problems/sum-of-even-numbers-till-n_893205?interviewProblemRedirection=true&leftPanelTabValue=PROBLEM&customSource=studio_nav
 
+// Difficulty: Easy
+
 #include <bits/stdc++.h>
 long long evenSumTillN(int n)
 {
