@@ -1,5 +1,7 @@
 // Question: https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
 
+// Difficulty: Medium
+
 
 // { Driver Code Starts
 int n = nums.size(), count = 0;
