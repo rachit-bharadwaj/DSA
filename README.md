@@ -11,6 +11,7 @@ This repository serves as a collection of my problem-solving journey across diff
 - **LeetCode** - https://leetcode.com/u/rachitbharadwaj/
 - **GeeksforGeeks (GFG)** - https://www.geeksforgeeks.org/profile/rachitbharadwaj
 - **Coding Ninjas** - https://www.naukri.com/code360/profile/rachitbharadwaj
+- **HackerRank** - https://www.hackerrank.com/profile/rachitbharadwaj
 
 ## 📈 Goals
 
